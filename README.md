@@ -1,3 +1,5 @@
+This is a model which trains on actor recordings, and can identify the emotional tone of speech from an audio file.
+
 I have achieved an accuracy of over 50% with this model, running about 30 epochs, and with very little over-fitting.
 
 Did get 70%+ test accuracy, but heavily overfitted, with 99%+ accuracy on train data. Ignored all these cases, as objective was to get a general model, which hasn't 'memorised' anything.
